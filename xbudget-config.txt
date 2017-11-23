@@ -1,1 +1,1 @@
-﻿xbudget app file reference 
+﻿xbudget appconfig
